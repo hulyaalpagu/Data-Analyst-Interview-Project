@@ -8,5 +8,6 @@ This project was part of an interview assignment and involved:
 - Business insights from raw data
 
 ## 🔗 Full Report (PDF)
-You can still view the full formatted version (Data%20Analyst%20Interview%20Project%202025.pdf)
+You can still view the full formatted version [View the PDF](Data%20Analyst%20Interview%20Project%202025.pdf)
+
 
