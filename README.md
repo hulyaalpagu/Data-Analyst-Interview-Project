@@ -1,4 +1,4 @@
-# Data Analyst Interview Projectt
+# Data Analyst Interview Project
 
 **Project Overview:**
 
