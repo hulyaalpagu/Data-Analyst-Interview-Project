@@ -1,8 +1,16 @@
+# Data Analyst Interview Project
+
+Candidate: Hulya Alpagu
+
+Email: hulyalpagu@gmail.com
+
+Phone: + 1 (862) 2977302
+
 ## Project Overview
 
-This project was completed as part of a technical interview for a Data Analyst role. Many companies evaluate candidates either through live coding (e.g., LeetCode) or by assigning a take-home project with a tight deadline. In this case, I was given **two days** to complete the entire assignment—from data exploration to final presentation.
+This technical interview project focused on evaluating a digital learning platform using four raw datasets. Within a two-day deadline, I cleaned and merged the data using Python, identified key insights, and developed a multi-page Power BI dashboard to communicate findings clearly.
 
-The task involved working with four raw datasets from a simulated digital learning platform. My responsibilities included cleaning and merging the data using **Python**, uncovering insights, and designing a multi-page **Power BI** dashboard to effectively communicate results.
+The final output highlights engagement patterns and areas for improvement, offering actionable insights to support data-driven decisions.
 
 ### Included Files
 
@@ -14,19 +22,6 @@ The task involved working with four raw datasets from a simulated digital learni
 
 
 This project showcases my ability to solve complex data problems under time constraints, apply technical tools effectively, and communicate insights clearly to both technical and non-technical stakeholders.
-
-
-# Data Analyst Interview Project
-
-Candidate: Hulya Alpagu
-
-Email: hulyalpagu@gmail.com
-
-Phone: + 1 (862) 2977302
-
-Project Overview
-
-This assessment is based on four interconnected data tables from a simulated digital learning platform. The objective is to evaluate the effectiveness of the learning product by cleaning and analyzing the data, uncovering actionable insights using Python, and communicating those insights through impactful visualizations created in Power BI. The final outcome should guide data-driven decisions for product improvement.
 
 ## Data Summary
 
