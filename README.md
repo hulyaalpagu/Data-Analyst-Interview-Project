@@ -6,10 +6,10 @@ The task involved working with four raw datasets from a simulated digital learni
 
 ### Included Files
 
-- 📄 **Before Data Wrangling**: [(Before Data Wrangling) Data Analyst Assessment 2025.xlsx](./Data-Analyst-Interview-Project/%28Before%20Data%20Wrangling%29%20Data%20Analyst%20Assessment%202025.xlsx)
-- 📄 **After Data Wrangling**: [(After Data Wrangling) Data Analyst Assessment 2025.csv](./Data-Analyst-Interview-Project/%28After%20Data%20Wrangling%29%20Data%20Analyst%20Assessment%202025.csv)
-- 🧹 Python code for cleaning, transforming, and merging the data [Data Analyst Interview Project 2025.pdf](./Data-Analyst-Interview-Project/Data%20Analyst%20Interview%20Project%202025.pdf)
-- 📊 Power BI dashboard (3 pages: Overview, Final Grade Analysis, Quiz Score Analysis)  [Data Visualization with Power BI.pbix](./Data-Analyst-Interview-Project/Data%20Visualization%20with%20Power%20BI.pbix)
+- 📄 **Before Data Wrangling**: [(Before Data Wrangling) Data Analyst Assessment 2025.xlsx](./%28Before%20Data%20Wrangling%29%20Data%20Analyst%20Assessment%202025.xlsx)
+- 📄 **After Data Wrangling**: [(After Data Wrangling) Data Analyst Assessment 2025.csv](./%28After%20Data%20Wrangling%29%20Data%20Analyst%20Assessment%202025.csv)
+- 🧹 Python code for cleaning, transforming, and merging the data [Data Analyst Interview Project 2025.pdf](./Data%20Analyst%20Interview%20Project%202025.pdf)
+- 📊 Power BI dashboard (3 pages: Overview, Final Grade Analysis, Quiz Score Analysis) [Data Visualization with Power BI.pbix](./Data%20Visualization%20with%20Power%20BI.pbix)
 - 📃 PDF report detailing the entire workflow, findings, and visuals [Data Wrangling with Python.ipynb](./Data%20Wrangling%20with%20Python.ipynb)
 
 
