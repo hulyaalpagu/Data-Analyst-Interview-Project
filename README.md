@@ -31,7 +31,7 @@ Here's a quick overview of the four main data tables:
     - Contains student performance metrics.
     - 1000 students with columns like student_id, final_grade, total_time_spent, total_resources_completed, mastery_level, badges_earned, dropout_flag
 
-- asset_table
+- **asset_table**
   - Logs student activity with learning assets.
   - 80,503 resource interactions records, including student_id, timestamp, resource_type, resource_id
 
