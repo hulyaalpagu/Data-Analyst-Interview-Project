@@ -1,13 +1,21 @@
-# Data Analyst Interview Projectt
+## Project Overview
 
-**Project Overview:**
+This project was completed as part of a technical interview for a Data Analyst role. Many companies evaluate candidates either through live coding (e.g., LeetCode) or by assigning a take-home project with a tight deadline. In this case, I was given **two days** to complete the entire assignment—from data exploration to final presentation.
 
-This project was part of an interview assignment and involved:
-- Data wrangling in Python
-- Dashboard creation in Power BI
-- Business insights from raw data
+The task involved working with four raw datasets from a simulated digital learning platform. My responsibilities included cleaning and merging the data using **Python**, uncovering insights, and designing a multi-page **Power BI** dashboard to effectively communicate results.
 
-# Data Analysis Assessment 2025
+### Included Files
+
+- 📄 **Before Data Wrangling**: [`Data Analyst Assessment 2025.xlsx`](./Data%20Analyst%20Assessment%202025.xlsx)  
+- 📄 **After Data Wrangling**: [`Data Analyst Assessment 2025.csv`](./Data%20Analyst%20Assessment%202025.csv)  
+- 🧹 Python code for cleaning, transforming, and merging the data  
+- 📊 Power BI dashboard (3 pages: Overview, Final Grade Analysis, Quiz Score Analysis)  
+- 📃 PDF report detailing the entire workflow, findings, and visuals  
+
+This project showcases my ability to solve complex data problems under time constraints, apply technical tools effectively, and communicate insights clearly to both technical and non-technical stakeholders.
+
+
+# Data Analyst Interview Project
 
 Candidate: Hulya Alpagu
 
