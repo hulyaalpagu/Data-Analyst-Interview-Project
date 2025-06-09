@@ -6,7 +6,7 @@ The task involved working with four raw datasets from a simulated digital learni
 
 ### Included Files
 
-- 📄 **Before Data Wrangling**: [`Data Analyst Assessment 2025.xlsx`](./Data%20Analyst%20Assessment%202025.xlsx)  
+- 📄 **Before Data Wrangling**: [`Data Analyst Assessment 2025.xlsx`](./Data-Analyst-Interview-Project/Data%20Analyst%20Assessment%202025.xlsx)
 - 📄 **After Data Wrangling**: [`Data Analyst Assessment 2025.csv`](./Data%20Analyst%20Assessment%202025.csv)  
 - 🧹 Python code for cleaning, transforming, and merging the data  
 - 📊 Power BI dashboard (3 pages: Overview, Final Grade Analysis, Quiz Score Analysis)  
